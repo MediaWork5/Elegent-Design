@@ -224,7 +224,7 @@ nav > .container > .row > div:nth-child(2) > div > span:nth-child(2){
 
 /* Start header */
 header {
-    height: 607px;
+    height: 606px;
     padding-top: 30px;
     background-color: #000;
     margin: -2px auto;
@@ -252,7 +252,7 @@ header > .container-fluid > div > div > div > div > h5 {
 /** Responsive **/
 @media (max-width: 1199px) {
     header {
-        height: 550px;
+        height: 549px;
         padding-top: 25px;
     }
     header > .container-fluid {
@@ -270,7 +270,7 @@ header > .container-fluid > div > div > div > div > h5 {
 }
 @media (max-width: 991px) {
     header {
-        height: 493px;
+        height: 492px;
         padding-top: 20px;
     }
     header > .container-fluid {
@@ -288,7 +288,7 @@ header > .container-fluid > div > div > div > div > h5 {
 }
 @media (max-width: 767px) {
     header {
-        height: 436px;
+        height: 435px;
         padding-top: 15px;
     }
     header > .container-fluid {
